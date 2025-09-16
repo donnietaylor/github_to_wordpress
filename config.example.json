@@ -1,0 +1,6 @@
+{
+    "GitHubToken": "ghp_your_github_personal_access_token_here",
+    "WordPressUrl": "https://yourblog.com",
+    "WordPressUsername": "your_wordpress_username",
+    "WordPressPassword": "your_wordpress_application_password"
+}
